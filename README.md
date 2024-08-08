@@ -4,8 +4,10 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um d
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do Meu Github](https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Rafael de Menezes](https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lugafaell&theme=radical)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lugafaell&theme=radical)
 
 ## 🚀 Projetos em Destaque
 
