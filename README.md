@@ -2,9 +2,10 @@
 
 Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um design intuitivo. Meu foco é em tecnologias como React, Node.js, e CSS moderno.
 
-# Conheça um pouco mais da minhas atividades
+## 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do Meu Github](https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=radical)
 
 ## 🚀 Projetos em Destaque
 
