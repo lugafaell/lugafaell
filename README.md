@@ -2,13 +2,6 @@
 
 Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um design intuitivo. Meu foco é em tecnologias como React, Node.js, e CSS moderno.
 
-## 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas do GitHub de Rafael de Menezes](https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lugafaell&theme=radical)
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lugafaell&theme=radical)
-
 ## 🚀 Projetos em Destaque
 
 - **[Projeto 1](https://github.com/lugafaell/React_Project)**: Meu Primeiro Projeto profissional em React que está em andamento.
@@ -38,6 +31,13 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um d
 - **Ferramentas:**
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+## 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub de Rafael de Menezes](https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=lugafaell&theme=radical)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lugafaell&theme=radical)
 
 ## 📫 Como me encontrar
 
