@@ -4,7 +4,7 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um d
 
 ## 🚀 Projetos em Destaque
 
-- **[Projeto 1](https://github.com/lugafaell/Devel_Task)**: Meu novo Projeto sendo desenvolvido em Vue e Nest chamado Devel Task.
+- **[Projeto 1](https://github.com/lugafaell/Devel-Task)**: Meu novo Projeto sendo desenvolvido em Vue e Nest chamado Devel Task.
 - **[Projeto 2](https://github.com/lugafaell/React_Project)**: Esboço do meu primeiro Projeto Profissional para um Empresa do segmento Hospitalar.
 
 ## 🛠️ Tecnologias & Ferramentas
