@@ -4,8 +4,8 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um d
 
 ## 🚀 Projetos em Destaque
 
-- **[Projeto 1](https://github.com/lugafaell/React_Project)**: Meu Primeiro Projeto profissional em React que está em andamento.
-- **[Projeto 2](https://github.com/lugafaell/html-css-website)**: Uma das minhas primeiras experiências com html e css.
+- **[Projeto 1](https://github.com/lugafaell/html-css-website)**: Meu novo Projeto sendo desenvolvido em Vue e Nest.
+- **[Projeto 1](https://github.com/lugafaell/React_Project)**: Esboço do meu primeiro Projeto Profissional para um Empresa do segmento Hospitalr.
 
 ## 🛠️ Tecnologias & Ferramentas
 
