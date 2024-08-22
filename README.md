@@ -19,7 +19,7 @@ Sou um desenvolvedor web apaixonado por criar aplicações eficientes e com um d
 
 - **Frameworks e Bibliotecas:**
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
   ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
