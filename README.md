@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Web+Full+Stack;Apaixonado+por+novas+tecnologias;Criando+experiências+digitais+incríveis;Always+learning%2C+always+coding!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lugafaell&color=58A6FF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
-</p>
-
 ---
 
 <table>
