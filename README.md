@@ -8,7 +8,7 @@
   💻 Desenvolvedor Web Full Stack | 🚀 Apaixonado por novas tecnologias | 🎨 Criando experiências digitais intuitivas
 </p>
 
----
+
 
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px">
 
@@ -18,7 +18,7 @@
 - 🌱 Explorando continuamente maneiras de melhorar como desenvolvedor  
 - ⚡ Gosto de criar interfaces modernas e performáticas  
 
----
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
