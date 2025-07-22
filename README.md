@@ -94,31 +94,6 @@
 
 ---
 
-## 💼 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-
-🌟 **[Nome do Projeto 1]**  
-Stack: React, Node.js, MongoDB  
-Descrição: Breve descrição do projeto incrível que você desenvolveu  
-Features: 🔥 Feature 1 • ⚡ Feature 2 • 🚀 Feature 3
-
-</td>
-<td width="50%">
-
-🌟 **[Nome do Projeto 2]**  
-Stack: Next.js, TypeScript, PostgreSQL  
-Descrição: Mais um projeto fantástico que mostra suas habilidades  
-Features: 💻 Feature 1 • 🎨 Feature 2 • 📊 Feature 3
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <p align="center">
