@@ -10,8 +10,9 @@
 
 ---
 
-## 🪄 Sobre mim
 <img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250px">
+
+## 🪄 Sobre mim
 
 - 🔥 Sempre buscando novas stacks e boas práticas  
 - 🌱 Explorando continuamente maneiras de melhorar como desenvolvedor  
