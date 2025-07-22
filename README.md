@@ -54,7 +54,7 @@
 
 ## 📫 Como me encontrar
 <p align="center">
-  <a href="[https://www.linkedin.com/in/rafamenezesga/](https://www.linkedin.com/in/rafamenezesga/)">
+  <a href="https://www.linkedin.com/in/rafamenezesga/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:rafaeldemenezes39@gmail.com">
