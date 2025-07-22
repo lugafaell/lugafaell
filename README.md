@@ -40,7 +40,7 @@
 
 ### 💻 Frontend & UI/UX
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bubble&theme=dark" />
 </p>
 
 ### ⚙️ Backend & APIs
