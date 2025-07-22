@@ -23,11 +23,11 @@
 - 🔥 **Sempre evoluindo:** Buscando novas stacks e boas práticas  
 - 🌱 **Aprendizado contínuo:** Explorando maneiras de melhorar como dev  
 - ⚡ **UI/UX focado:** Criando interfaces modernas e performáticas  
-- 🎯 **Full Stack:** Experiência completa do front ao back-end
-- 🧠 **Clean Code:** Apaixonado por arquitetura de software
-- 🚀 **Metodologias ágeis:** Scrum, Kanban e trabalho em equipe
-- 💡 **Performance:** Otimização e melhores práticas de desenvolvimento
-- 🔍 **Inovação:** Sempre de olho nas tendências do mercado
+- 🎯 **Full Stack:** Experiência completa do front ao back-end  
+- 🧠 **Clean Code:** Apaixonado por arquitetura de software  
+- 🚀 **Metodologias ágeis:** Scrum, Kanban e trabalho em equipe  
+- 💡 **Performance:** Otimização e melhores práticas de desenvolvimento  
+- 🔍 **Inovação:** Sempre de olho nas tendências do mercado  
 
 </td>
 <td width="50%">
@@ -40,179 +40,104 @@
 
 ---
 
-## 🚀 O que estou fazendo agora
+## 🛠️ Arsenal de Tecnologias
 
-typescript
-const rafael = {
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "clean code"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Nest.js"],
-            python: ["Django", "FastAPI"],
-            java: ["Spring Boot"],
-            ruby: ["Ruby on Rails"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["Docker", "AWS", "Vercel"],
-        tools: ["Git", "VS Code", "Figma"]
-    },
-    currentFocus: "Arquitetura de software e microserviços",
-    challenge: "Construindo aplicações escaláveis e performáticas"
-};
-🛠️ Arsenal de Tecnologias
-💻 Frontend & UI/UX
+### 💻 Frontend & UI/UX
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind&theme=dark" />
 </p>
 
-⚙️ Backend & APIs
+### ⚙️ Backend & APIs
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,nest,python,java,ruby,rails&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,python,java,ruby,rails&theme=dark" />
 </p>
 
-🗄️ Databases & Cloud
+### 🗄️ Databases & Cloud
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,aws&theme=dark" />
 </p>
 
-🔧 Ferramentas & Produtividade
+### 🔧 Ferramentas & Produtividade
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman&theme=dark" />
 </p>
 
-📊 Estatísticas & Atividade
+---
+
+## 📊 Estatísticas & Atividade
+
 <table>
-
 <tr>
-
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=lugafaell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </td>
-
 <td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lugafaell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </td>
-
 </tr>
-
 </table>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lugafaell&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lugafaell&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lugafaell&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lugafaell&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 </p>
 
-🏆 Conquistas & Troféus
+---
+
+## 🏆 Conquistas & Troféus
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lugafaell&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=lugafaell&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-💼 Projetos em Destaque
+---
+
+## 💼 Projetos em Destaque
+
 <table>
-
 <tr>
-
 <td width="50%">
 
-🌟 [Nome do Projeto 1]
-Stack: React, Node.js, MongoDB
-Descrição: Breve descrição do projeto incrível que você desenvolveu
+🌟 **[Nome do Projeto 1]**  
+Stack: React, Node.js, MongoDB  
+Descrição: Breve descrição do projeto incrível que você desenvolveu  
 Features: 🔥 Feature 1 • ⚡ Feature 2 • 🚀 Feature 3
 
 </td>
-
 <td width="50%">
 
-🌟 [Nome do Projeto 2]
-Stack: Next.js, TypeScript, PostgreSQL
-Descrição: Mais um projeto fantástico que mostra suas habilidades
+🌟 **[Nome do Projeto 2]**  
+Stack: Next.js, TypeScript, PostgreSQL  
+Descrição: Mais um projeto fantástico que mostra suas habilidades  
 Features: 💻 Feature 1 • 🎨 Feature 2 • 📊 Feature 3
 
 </td>
-
 </tr>
-
 </table>
 
-📈 Contribuições & Atividade
-text
+---
 
-Copiar
-🌅 Manhã     ████████░░░░░░░░░░░░░   35% 
-🌞 Tarde     ██████████░░░░░░░░░░░   42% 
-🌃 Noite     █████░░░░░░░░░░░░░░░░   20% 
-🌙 Madrugada ██░░░░░░░░░░░░░░░░░░░   03%
-Linguagens mais usadas na semana:
+## 🌐 Conecte-se Comigo
 
-text
-
-Copiar
-TypeScript   ████████████████░   80.0%
-JavaScript   ███░░░░░░░░░░░░░░░   15.0%
-Python       █░░░░░░░░░░░░░░░░░   05.0%
-💡 Além dos repositórios públicos, contribuo ativamente em projetos privados, incluindo pull requests, code reviews e commits que não são contabilizados nessas estatísticas públicas.
-
-🌐 Conecte-se Comigo
 <p align="center">
-
-<a href="https://www.linkedin.com/in/rafamenezesga/">
-
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=000000" />
-
-</a>
-
-<a href="mailto:rafaeldemenezes39@gmail.com">
-
-<img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=000000" />
-
-</a>
-
-<a href="https://github.com/lugafaell">
-
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=000000" />
-
-</a>
-
+  <a href="https://www.linkedin.com/in/rafamenezesga/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=000000" />
+  </a>
+  <a href="mailto:rafaeldemenezes39@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge&labelColor=000000" />
+  </a>
+  <a href="https://github.com/lugafaell">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=000000" />
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&animation=fadeIn" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&animation=fadeIn" />
 </p>
 
 <p align="center">
-
 ⭐️ <strong>Se curtiu meu perfil, deixe uma estrela em algum repositório!</strong> ✨<br>
-
 💼 <strong>Aberto para oportunidades e colaborações</strong> 🚀
-
 </p>
-
-```
